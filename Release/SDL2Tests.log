@@ -1,0 +1,12 @@
+﻿  main.cpp
+  obstacle.cpp
+C:\Users\noam4\source\repos\SDL2Tests\SDL2Tests\obstacle.cpp(32,64): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  obstacleManager.cpp
+  player.cpp
+C:\Users\noam4\source\repos\SDL2Tests\SDL2Tests\player.cpp(45,54): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Texture.cpp
+  Generating code
+  Compiler version has changed, fall back to full compilation.
+  All 347 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SDL2Tests.vcxproj -> C:\Users\noam4\source\repos\SDL2Tests\Release\SDL2Tests.exe
